@@ -22,8 +22,17 @@
 </div>
 
 ---
-
 <div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://github.com/phamhuongtra/phamhuongtra/blob/output/github-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center"> 
 
 ## 💻 Tech Stack
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -44,23 +53,11 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=phamhuongtra&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=phamhuongtra&theme=merko&hide_border=false"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhuongtra&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
----
 
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://github.com/phamhuongtra/phamhuongtra/blob/output/github-snake-dark.svg"/>
+  
+### 📊 GitHub Stats
+![](https://streak-stats.demolab.com?user=phamhuongtra&theme=radical&hide_border=false)
 
 </div>
 
