@@ -24,8 +24,6 @@
 ---
 <div align="center">
 
-## 🐍 Contribution Snake
-
 <img src="https://github.com/phamhuongtra/phamhuongtra/blob/output/github-snake-dark.svg"/>
 
 </div>
@@ -56,7 +54,6 @@
 
 <div align="center">
   
-### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com?user=phamhuongtra&theme=radical&hide_border=false)
 
 </div>
