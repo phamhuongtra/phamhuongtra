@@ -12,14 +12,6 @@
 
 ---
 
-<div align="left">
-
-## 🌐 Socials
-<a href="https://www.linkedin.com/in/tr%C3%A0-h%C6%B0%C6%A1ng/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 <div align="center">
@@ -57,6 +49,16 @@
 ![](https://streak-stats.demolab.com?user=phamhuongtra&theme=radical&hide_border=false)
 
 </div>
+
+<div align="left">
+
+## 🌐 Socials
+<a href="https://www.linkedin.com/in/tr%C3%A0-h%C6%B0%C6%A1ng/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
 
 ---
 
